@@ -1,0 +1,160 @@
+                                                                   /* Master Page */
+            #div1 {width: 1350px;height: 60px;background-color:wheat;float: left;}
+
+            #LD{width: 1050px;height: 60px;float: left;}
+            
+            #ID{width: 300px;height: 60px; float: left;}
+            
+            #logo {margin-left: 10px;width: 150;height: 60px;}
+            
+            .icon {height: 30px;float: right; margin: 2px;}
+            
+            #menu ul{list-style-type: none;margin-left: 680px;line-height: 10px;}
+            
+            #menu ul li{float: left; width: 100px; text-align: center; line-height: 40px;position: relative;bottom: 16px;}
+            
+            #menu ul li a{text-decoration: none; color: white;font-family: Arial, Helvetica, sans-serif;font-size: medium;}
+            
+            #menu{background-color: darkseagreen;width: 1350px;height: 40px;float: left;}
+            
+            #menu ul ul li { background-color: darkseagreen;}
+            
+            #menu ul ul {display: none;}
+            
+            #menu ul li:hover {background-color:darkolivegreen;}
+            
+            #menu ul li:hover > ul {display: block;}
+            
+            #menu ul ul{ position: absolute; right: 0px; top: 56px;}
+            
+            .emp1{width: 1350px;height: 5px;background-color: lightyellow;float: left;}
+            
+            #slider{float: left;width: 1350px;height: 170px;}
+            
+            #slider div {width: 1350px;height: 170px;float: left;background-image: url("Images/slider.jpg");}
+            
+            #slider div h1 {font-family: Arial, Helvetica, sans-serif; color: white; margin-left: 440px;}
+            
+            #slider div p{font-family: Arial, Helvetica, sans-serif; color: white; margin-left: 370px;margin-right: 350px; font-size:large;}
+            
+            .emp2{width: 1350px; height: 20px;background-color:lightyellow; float: left;}
+            
+            #footer{width: 1350px;height: 210px;float: left;background-color: darkkhaki;}
+            
+            #footer div {width: 450px; height: 190px;float: left;}
+            
+            #footer div h2{font-family: Arial, Helvetica, sans-serif; color: snow; margin-left : 135px;}
+            
+            #footer div p{font-family: Arial, Helvetica, sans-serif; color: snow; margin-left: 50px;}
+            
+            .adress{padding-left: 85px;}
+            
+            #footer div ul li{font-family: Arial, Helvetica, sans-serif; color: snow; float: left;text-align: center;height: 40px;margin-left: 40px;}
+            
+            #lastD{background-color: darkolivegreen; float: left;width: 1350px; height: 50px;}
+            
+            #lastD p {color: white; margin-left: 530px; font-family: Arial, Helvetica, sans-serif;}
+            
+            .socialm {background-color: burlywood; float: left;width: 1350px;height: 85px;}
+            
+            .socialm h2{width: 170px; font-family: Arial, Helvetica, sans-serif; color: white;position: relative;top: -15px; left: 600px;}  
+            
+            .icon2 {float: left; height: 30px;margin: 2px;position: relative;top: -15px;left: 310px;}
+            
+                                                                  /* Home */
+            
+            #Team{width: 400px;height: 280px;background-color: burlywood;float: left; }
+            
+            #Team h2{font-family: Arial, Helvetica, sans-serif;color: white;margin-left: 30px;}
+            
+            #Team p{font-family: Arial, Helvetica, sans-serif;font-size: large;color: white;margin-left: 30px;}
+            
+            .CT {width: 1350px; height: 50px; background-color:tomato;float: left;}
+            
+            .CT p{color: white;margin-left: 440px; font-family: Arial, Helvetica, sans-serif;font-size: x-large;font-weight: bold; position: relative;bottom: 13px;}
+            
+            .About{width: 1350px; height: 400px; background-color:darkseagreen;float: left;}
+            
+            .About div{width: 680px; height: 400px;} 
+            
+            .About div h1{font-family: Arial, Helvetica, sans-serif; color: white;position: relative;left: 620px; top: -400px;}
+            
+            .About div img{width: 600px; height: 400px;} 
+            
+            .About div p{font-family: Arial, Helvetica, sans-serif; color: white;position: relative;left: 620px; top: -400px;font-size: large;}
+            
+            .About2{width: 1350px; height: 400px; background-color:darkolivegreen;float: left;}
+            
+            .About2 div{width: 690px; height: 400px;} 
+            
+            .About2 div h1{font-family: Arial, Helvetica, sans-serif; color: white;position: relative;margin-left: 25px; top: -400px;}
+            
+            .About2 div img{width: 600px; height: 400px;position: relative;left: 750px;} 
+            
+            .About2 div p{font-family: Arial, Helvetica, sans-serif; color: white;position: relative;margin-left: 20px; top: -400px;font-size: large;}
+            
+            #Vemp{width: 5px;height: 250px;background-color: lightyellow;float: left;}
+            
+            #TT{width: 945px; height: 280px;position: absolute;top: 1167.5px;left: 413px;background-color: tomato;}
+            
+            #Theading{width: 945px;height: 50px;background-color: tomato;}
+            
+            #Theading p{font-family: Arial, Helvetica, sans-serif;color: white;font-size: x-large;font-weight: bold;position: relative;bottom: 13px;margin-left: 230px;}
+            
+            .tt{width: 472.5px;height: 230px; background-color: darkolivegreen;float: left;position: relative;top: -24px;}
+            
+            .tt p{margin-left: 160px;font-family: Arial, Helvetica, sans-serif;font-size: large;color: white;}
+              
+                                                                    /* Services  */
+            
+            #kit {background-color: burlywood;}
+            
+            #kit p{margin-left: 20px;margin-top: 30px;}
+            
+            #hostel p{margin-left: 25px;margin-top: -15px;}
+            
+            #TG p{margin-left: 5px;margin-bottom: px;}
+            
+                                                                    /* Registry */
+            
+            .form{width: 1350px;height: 350px;background-color:limegreen;float: left;}
+            
+            .form div{width: 675px;float: left;}
+            
+            .form div h5{font-family: Arial, Helvetica, sans-serif;color: white;}
+            
+            #hos{background-color:coral;}
+            
+            .box{ color: white;font-family: Arial, Helvetica, sans-serif;font-size: medium;font-weight: bold;}
+            
+            .box input{width: 20px;}
+            
+            #Gender{position: relative; top: 3px;}
+            
+            #check{position: relative; top: -8px;}
+            
+            .form div p{width: 150px;height: 300;font-size: large;font-weight: bold; font-family: Arial, Helvetica, sans-serif;color: white;margin-left: 520px;}
+            
+            .InD{position: relative;top: 8px;border-radius: 40px;position: relative;top: 18px;margin-left: 10px;}
+            
+            .input{width: 250px;height: 23px;border-radius: 40px;border: none;}
+            
+            .submit{width: 100px;height: 30px;border-radius: 100px;color: white;background-color:darkolivegreen;border: none;}
+            
+                                                                        /* Fee */
+            
+            .fee{border-collapse:collapse;width: 1350px;color: white;font-size: large;background-color: darkolivegreen;text-align: center;border-radius: 70px;border: none;}
+            
+            #HF{background-color: limegreen;}
+            
+                                                                      /* About Us */
+            
+            #AU{width: 1350px; height: 680px; background-color:darkolivegreen;}
+            
+            #AU div{width: 675px; height: 400px;} 
+            
+            #AU div img{width: 600px; height: 400px;} 
+            
+            #AU div h1{font-family: Arial, Helvetica, sans-serif; color: white;position: relative;left: 620px; top: -130px;}
+            
+            #AU div p{font-family: Arial, Helvetica, sans-serif; color: white;position: relative;left: 620px; top: -130px;font-size: large;}
